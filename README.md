@@ -1,6 +1,6 @@
 # AI
 
-#TOWER OF HANOI
+          #TOWER OF HANOI
             def TowerOfHanoi(n, start_rod, end_rod, transition_rod):
               ## base case for only one disc remaining
               if n==1:
@@ -24,7 +24,7 @@
               Move disk 1 from rod B to rod A
               Move disk 2 from rod B to rod C
               Move disk 1 from rod A to rod C
-
+---------------------------------------------------------------------------------------------------------------------------------------------
 
     #BFS
               graph = {
@@ -60,8 +60,9 @@
               Following is the Breadth-First Search
               5 3 7 2 4 8 
               
-              
-     #DFS
+ -----------------------------------------------------------------------------------------------------------------------------------------------------    
+ 
+        #DFS
               graph = {
                 '5' : ['3','7'],
                 '3' : ['2', '4'],
