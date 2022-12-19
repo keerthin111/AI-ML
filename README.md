@@ -130,3 +130,17 @@
                               target = int(input("Enter the Target/Destination Node: "))
                               print("Path: ", end = "")
                               best_first_search(source, target, v) 
+                              
+                OUTPUT:
+                    Enter the number of nodes: 4
+                    Enter the number of edges: 5
+                    Enter the edges along with their weights:
+                    0 1 1 
+                    0 2 1
+                    0 3 2
+                    2 3 2
+                    1 3 3
+                    Enter the Source Node: 2 
+                    Enter the Target/Destination Node: 1
+                    Path: 2 0 1 
+--------------------------------------------------------------------------------------------------------------------------------------------------
