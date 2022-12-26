@@ -1,6 +1,6 @@
 # AI
 
-          #TOWER OF HANOI
+     #TOWER OF HANOI
             def TowerOfHanoi(n, start_rod, end_rod, transition_rod):
               ## base case for only one disc remaining
               if n==1:
@@ -62,7 +62,7 @@
               
  -----------------------------------------------------------------------------------------------------------------------------------------------------    
  
-        #DFS
+      #DFS
               graph = {
                 '5' : ['3','7'],
                 '3' : ['2', '4'],
