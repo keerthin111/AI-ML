@@ -321,7 +321,7 @@
                               0 2
                               True
  -------------------------------------------------------------------------------------------------------------------------------------------------------
-     #Travelling Salesman problem
+     #8-puzzle's problem
     
                      import copy
                     from heapq import heappush, heappop
@@ -427,7 +427,7 @@
                               0  7  4  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-   #8-Puzzle Problem
+       #Travelling Salesman problem
   
                     from sys import maxsize
                     from itertools import permutations
