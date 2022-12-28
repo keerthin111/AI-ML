@@ -1,0 +1,5 @@
+     "Time", "Weather", "Temperature","Company","Humidity","Wind","Goes"
+ 1, "Morning","Sunny","Warm","Yes","Mild","Strong","Yes"
+ 2, "Evening","Rainy","Cold","No","Mild","Normal","No"
+ 3, "Morning","Sunny","Moderate","Yes","Normal","Normal","Yes"
+ 4, "Evening","Sunny","Cold","Yes","High","Strong","Yes"
