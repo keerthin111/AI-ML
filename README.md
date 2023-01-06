@@ -1,4 +1,4 @@
-# AI
+# AI-ML
 
      #TOWER OF HANOI
             def TowerOfHanoi(n, start_rod, end_rod, transition_rod):
